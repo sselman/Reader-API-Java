@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ltkjava-1.0.0.7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/ltkjava-1.0.0.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
